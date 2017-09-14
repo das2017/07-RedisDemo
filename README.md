@@ -1,2 +1,0 @@
-# RedisDemo
-Redis Demo
