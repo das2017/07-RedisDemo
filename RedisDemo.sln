@@ -13,6 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDemo", "RedisDemo\RedisDemo.csproj", "{A45C11D5-2C9F-4697-B571-6FBEFE421901}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{3E832A2E-14C3-4766-A6FE-1974CECD1C2B}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\RedisDesktopManager-v0.8.7.322.7z = Documents\RedisDesktopManager-v0.8.7.322.7z
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
