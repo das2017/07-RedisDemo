@@ -48,10 +48,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FxCommon">
-      <HintPath>..\References\FxCommon.dll</HintPath>
+      <HintPath>..\ReferenceDll\FxCommon.dll</HintPath>
     </Reference>
     <Reference Include="Redis">
-      <HintPath>..\References\Redis.dll</HintPath>
+      <HintPath>..\ReferenceDll\Redis.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
