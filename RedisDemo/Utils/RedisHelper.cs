@@ -13,7 +13,7 @@ namespace RedisDemo.Utils
             // 读取Redis主机IP配置信息
             string[] redisMasterHosts = ConfigurationManager.AppSettings["RedisServerIP"].Split(',');
 
-            // 如果Redis服务器是主从配置，那么还需要读取Redis Slave机的IP配置信息
+            // 如果Redis服务器是主从配置，则还需要读取Redis Slave机的IP配置信息
             string[] redisSlaveHosts = null;
             var slaveConnection = ConfigurationManager.AppSettings["RedisSlaveServerIP"];
             if (!string.IsNullOrWhiteSpace(slaveConnection))
