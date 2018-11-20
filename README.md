@@ -15,6 +15,6 @@
 4. ServiceStack.Redis客户端：https://github.com/ServiceStack/ServiceStack.Redis
 5. Redis命令大全：http://www.redis.cn/commands.html
 
-### 文章内容：
-1. 购书链接：
-2. 博客链接：https://dwz.cn/R0ysmgv9
+### 购书链接：
+1. 京东链接：
+2. 当当链接：
