@@ -8,9 +8,9 @@
 5. Redis命令大全：http://www.redis.cn/commands.html
 
 ## 购书链接：
-1. 京东链接：
-2. 当当链接：
-3. 天猫当当店铺：
+1. 京东链接：https://item.jd.com/40662830460.html
+2. 当当链接：http://product.dangdang.com/1436599215.html
+3. 天猫店铺：https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-16861154605.39.46be1b8bGWSsmz&id=585204361262&rn=12e44ccc5bb398b74fdd72e49e2af64e&abbucket=9
 
 ## 全书目录：
 ### 第一篇 开篇——照着做，你也能成为架构师
