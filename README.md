@@ -1,16 +1,16 @@
 # RedisDemo
 
 ## 第7章的Demo下载及更多资料：
-1. RedisDemo下载地址：https://github.com/das2017/RedisDemo
-2. RedisDesktopManage下载地址：https://redisdesktop.com/
-3. Redis官网：https://redis.io/
-4. ServiceStack.Redis客户端：https://github.com/ServiceStack/ServiceStack.Redis
-5. Redis命令大全：http://www.redis.cn/commands.html
++ RedisDemo下载地址：https://github.com/das2017/RedisDemo
++ RedisDesktopManage下载地址：https://redisdesktop.com/
++ Redis官网：https://redis.io/
++ ServiceStack.Redis客户端：https://github.com/ServiceStack/ServiceStack.Redis
++ Redis命令大全：http://www.redis.cn/commands.html
 
 ## 购书链接：
-1. 京东链接：https://item.jd.com/40103964120.html
-2. 当当链接：http://product.dangdang.com/1436599215.html
-3. 天猫店铺：https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-16861154605.39.46be1b8bGWSsmz&id=585204361262&rn=12e44ccc5bb398b74fdd72e49e2af64e&abbucket=9
++ 京东链接：https://item.jd.com/40103964120.html
++ 当当链接：http://product.dangdang.com/1436599215.html
++ 天猫店铺：https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-16861154605.39.46be1b8bGWSsmz&id=585204361262&rn=12e44ccc5bb398b74fdd72e49e2af64e&abbucket=9
 
 ## 全书目录：
 ### 第一篇 开篇——照着做，你也能成为架构师
