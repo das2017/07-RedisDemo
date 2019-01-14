@@ -1,6 +1,7 @@
 # RedisDemo
+7　Redis快速入门及应用
 
-## 第7章的Demo下载及更多资料
+## Demo下载及更多资料
 + RedisDemo下载地址：https://github.com/das2017/RedisDemo
 + RedisDesktopManage下载地址：https://redisdesktop.com/
 + Redis官网：https://redis.io/
